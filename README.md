@@ -1,4 +1,4 @@
-Sure! Here's a detailed description for your dog breed classification project using deep learning models and TensorFlow:
+
 
 ---
 
@@ -41,4 +41,4 @@ The Dog Breed Classification project aims to accurately identify and classify va
 
 ---
 
-Feel free to modify or expand upon this description to suit your project's specific requirements!
+
